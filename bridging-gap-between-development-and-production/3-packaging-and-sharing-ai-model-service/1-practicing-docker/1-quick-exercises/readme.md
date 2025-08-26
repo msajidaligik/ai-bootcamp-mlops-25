@@ -68,7 +68,7 @@ python --version
 ### 9.1 Create a local file:
 
 ```bash
-echo "<h1>Hello Docker!</h1>" > index.html
+echo '<h1>Hello Docker!</h1>' > index.html
 ```
 
 ### 9.2 Run container with volume:
